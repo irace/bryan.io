@@ -1,0 +1,27 @@
+.post-wrapper {
+  background: #333;
+}
+
+.post h2 a,
+.post-wrapper {
+  color: white;
+}
+
+.post blockquote {
+  border-left: 3px solid #4E4E4E;
+}
+
+.photo-wrapper:not(.high-res) + .caption {
+  border: none;
+}
+
+.sub-title,
+.asker-question {
+  color: #606060;
+}
+
+.notes li,
+.notes-wrapper {
+  border-top: 1px solid #4E4E4E;
+  color: #bdbdbd;
+}
