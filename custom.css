@@ -16,7 +16,8 @@
 }
 
 .sub-title,
-.asker-question {
+.asker-question,
+.answerer-answer {
   color: #606060;
 }
 
