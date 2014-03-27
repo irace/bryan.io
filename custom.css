@@ -2,6 +2,10 @@
   background: #333;
 }
 
+.post-wrapper a { 
+  color: #67c1f3; 
+}
+
 .post h2 a,
 .post-wrapper {
   color: white;
