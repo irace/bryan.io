@@ -6,6 +6,10 @@
   color: #67c1f3; 
 }
 
+.post-notes a {
+  color: #a7a7a7;
+}
+
 .post h2 a,
 .post-wrapper {
   color: white;
