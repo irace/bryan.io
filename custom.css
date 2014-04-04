@@ -15,6 +15,10 @@
   color: white;
 }
 
+.post-controls li .share {
+    color: #1c1c1c;
+}
+
 .post blockquote {
   border-left: 3px solid #4E4E4E;
 }
