@@ -6,7 +6,8 @@
   color: #67c1f3; 
 }
 
-.post-notes a {
+.date-notes a,
+#notes a {
   color: #a7a7a7;
 }
 
