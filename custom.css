@@ -7,7 +7,8 @@
 }
 
 .date-notes a,
-#notes a {
+#notes a,
+a.reblog-link {
   color: #a7a7a7;
 }
 
